@@ -1,0 +1,17 @@
+html, body {
+    margin:0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(100, 100, 100);
+    transition: 0.5s linear background-color;
+}
+
+body.connected {
+    background-color: rgb(0, 200, 255);
+}

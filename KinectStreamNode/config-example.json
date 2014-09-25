@@ -1,0 +1,10 @@
+{
+   "mobileInput" : {
+      "enabled" : true,
+      "port" : 8000
+   },
+   "websocket" : {
+      "debug" : true,
+      "port" : 4567
+   }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "MotionStream",
+  "version": "0.0.1",
+  "description": "Mobile Gyro Data to Websockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/HeliosInteractive/motionstream.git",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^0.6.2",
+    "express": "^4.8.8",
+    "fs.extra": "^1.2.1",
+    "nconf": "^0.6.9",
+    "single-line-log": "~0.4.1",
+    "ws": "~0.4.32"
+  }
+}
